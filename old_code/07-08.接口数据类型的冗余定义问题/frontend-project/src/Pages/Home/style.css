@@ -1,0 +1,9 @@
+.home-page {
+  padding: 0 50px;
+}
+
+.home-page .buttons {
+  width: 200px;
+  margin: 30px auto;
+  padding: 20px;
+}
