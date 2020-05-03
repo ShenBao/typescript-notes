@@ -2,7 +2,7 @@
 // class Person {
 //   constructor(private _name: string) {}
 //   get name() {
-//     return this._name + ' lee';
+//     return this._name + ', test';
 //   }
 //   set name(name: string) {
 //     const realName = name.split(' ')[0];
@@ -10,9 +10,9 @@
 //   }
 // }
 
-// const person = new Person('dell');
+// const person = new Person('ZhangSan');
 // console.log(person.name);
-// person.name = 'dell lee';
+// person.name = 'ZhangSan';
 // console.log(person.name);
 
 class Demo {
@@ -21,7 +21,7 @@ class Demo {
 
   static getInstance() {
     if (!this.instance) {
-      this.instance = new Demo('dell lee');
+      this.instance = new Demo('ZhangSan');
     }
     return this.instance;
   }

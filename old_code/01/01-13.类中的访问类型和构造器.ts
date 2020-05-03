@@ -2,6 +2,7 @@
 // public 允许我在类的内外被调用
 // private 允许在类内被使用
 // protected 允许在类内及继承的子类中使用
+
 // class Person {
 //   public name: string;
 //   public sayHi() {
@@ -20,7 +21,7 @@
 // }
 
 // const person = new Person();
-// person.name = 'dell';
+// person.name = 'ZhangSan';
 // console.log(person.name);
 // person.sayHi();
 
@@ -34,7 +35,7 @@
 //   // 简化写法
 //   constructor(public name: string) {}
 // }
-// const person = new Person('dell');
+// const person = new Person('ZhangSan');
 // console.log(person.name);
 
 class Person {
@@ -43,7 +44,7 @@ class Person {
 
 class Teacher extends Person {
   constructor(public age: number) {
-    super('dell');
+    super('ZhangSan');
   }
 }
 

@@ -6,7 +6,7 @@
 //   }
 // }
 
-// const person = new Person('Dell');
+// const person = new Person('ZhangSan');
 // person.name = 'hello';
 // console.log(person.name);
 
@@ -46,12 +46,12 @@ interface Driver {
 }
 
 const teacher = {
-  name: 'dell',
+  name: 'ZhangSan',
   teachingAge: 3
 };
 
 const student = {
-  name: 'lee',
+  name: 'LiSi',
   age: 18
 };
 

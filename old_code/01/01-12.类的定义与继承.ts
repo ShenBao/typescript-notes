@@ -1,5 +1,5 @@
 class Person {
-  name = 'dell';
+  name = 'ZhangSan';
   getName() {
     return this.name;
   }

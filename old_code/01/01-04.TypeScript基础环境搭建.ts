@@ -4,7 +4,7 @@ interface Point {
 }
 
 function tsDemo(data: Point) {
-  console.log('Dell TS');
+  console.log('Hello TS');
   return Math.sqrt(data.x ** 2 + data.y ** 2);
 }
 

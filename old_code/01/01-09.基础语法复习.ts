@@ -17,7 +17,7 @@ const date = new Date();
 interface Person {
   name: 'string';
 }
-const rawData = '{"name": "dell"}';
+const rawData = '{"name": "ZhangSan"}';
 const newData: Person = JSON.parse(rawData);
 
 let temp: number | string = 123;

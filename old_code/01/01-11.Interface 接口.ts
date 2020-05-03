@@ -24,7 +24,7 @@ const setPersonName = (person: Teacher, name: string): void => {
 };
 
 const person = {
-  name: 'dell',
+  name: 'ZhangSan',
   sex: 'male',
   say() {
     return 'say hello';
@@ -38,7 +38,7 @@ getPersonName(person);
 setPersonName(person, 'lee');
 
 class User implements Person {
-  name = 'dell';
+  name = 'ZhangSan';
   say() {
     return 'hello';
   }

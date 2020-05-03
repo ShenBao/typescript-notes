@@ -19,6 +19,6 @@ function getTotal(firstNumber: number, secondNumber: number) {
 const total = getTotal(1, 2);
 
 const obj = {
-  name: 'dell',
+  name: 'ZhangSan',
   age: 18
 };
