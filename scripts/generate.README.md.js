@@ -28,8 +28,9 @@ var endDesc = `
 - [About Me](https://shenbao.github.io/about/)
 `;
 
-var fs = require ('fs');
-var path = require ('path');
+const fs = require ('fs');
+const path = require ('path');
+const cwd = process.cwd();
 
 function readFileList (dir, filesList = []) {
   const files = fs.readdirSync (dir);
@@ -42,14 +43,15 @@ function readFileList (dir, filesList = []) {
         nextPath.includes ('code') ||
         nextPath.includes ('img') ||
         nextPath.includes ('.git') ||
-        nextPath.includes ('oldDocs')
+        nextPath.includes ('oldDocs') || 
+        nextPath.includes ('scripts')
       ) {
       } else {
         filesList.push (
           {},
           {
             name: item,
-            path: fullPath.replace (__dirname, '').replace (/\\/g, '/') +
+            path: fullPath.replace (cwd, '').replace (/\\/g, '/') +
               '/README.md',
           }
         );
@@ -70,7 +72,7 @@ function readFileList (dir, filesList = []) {
           arr.shift ();
         }
         name = arr.join ().replace (/(^\s*)|(\s*$)/g, '');
-        var itemPath = fullPath.replace (__dirname, '').replace (/\\/g, '/');
+        var itemPath = fullPath.replace (cwd, '').replace (/\\/g, '/');
         var obj = {
           name: name,
           path: itemPath,
@@ -83,7 +85,7 @@ function readFileList (dir, filesList = []) {
 }
 
 var filesList = [];
-readFileList (__dirname, filesList);
+readFileList (cwd, filesList);
 
 console.log (JSON.stringify (filesList, null, 4));
 

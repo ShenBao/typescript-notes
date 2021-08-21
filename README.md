@@ -67,6 +67,17 @@ TypeScript 学习笔记
 1. [Vue - 01, TypeScript Vue](%2F5.%20%E5%AE%9E%E6%88%98%E7%AF%87%2FVue%20-%2001.%20TypeScript%20Vue.md)
 1. [Vue - 02, Vue 组件与类型](%2F5.%20%E5%AE%9E%E6%88%98%E7%AF%87%2FVue%20-%2002.%20Vue%20%E7%BB%84%E4%BB%B6%E4%B8%8E%E7%B1%BB%E5%9E%8B.md)
 
+## 6. 进阶篇
+
+
+## 7. 技巧篇
+
+1. [编译工具是如何读取并转换 config,ts 的](%2F7.%20%E6%8A%80%E5%B7%A7%E7%AF%87%2F%E7%BC%96%E8%AF%91%E5%B7%A5%E5%85%B7%E6%98%AF%E5%A6%82%E4%BD%95%E8%AF%BB%E5%8F%96%E5%B9%B6%E8%BD%AC%E6%8D%A2%20config.ts%20%E7%9A%84.md)
+
+## 8. Articles
+
+1. [vscode 开启 eslint 自动校验](%2F8.%20Articles%2F001.%20vscode%20%E5%BC%80%E5%90%AF%20eslint%20%E8%87%AA%E5%8A%A8%E6%A0%A1%E9%AA%8C.md)
+
 ## More links
 
 - [GitHub Home](https://github.com/ShenBao)
