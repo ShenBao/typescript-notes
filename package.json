@@ -1,0 +1,23 @@
+{
+  "name": "typescript-notes",
+  "version": "1.0.0",
+  "description": "TypeScript 学习笔记",
+  "scripts": {
+    "build": "node ./scripts/generate.README.md.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShenBao/typescript-notes.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "ShenBao",
+    "email": "shenbaoone@gmail.com",
+    "url": "https://github.com/ShenBao"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShenBao/typescript-notes/issues"
+  },
+  "homepage": "https://github.com/ShenBao/typescript-notes#readme"
+}
