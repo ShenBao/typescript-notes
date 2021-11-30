@@ -1,0 +1,1 @@
+const teacher: string = null;

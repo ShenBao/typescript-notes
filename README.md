@@ -69,6 +69,7 @@ TypeScript 学习笔记
 
 ## 6. 进阶篇
 
+1. [TS 基础、技巧性技能](%2F6.%20%E8%BF%9B%E9%98%B6%E7%AF%87%2F01.%20TS%20%E5%9F%BA%E7%A1%80%E3%80%81%E6%8A%80%E5%B7%A7%E6%80%A7%E6%8A%80%E8%83%BD.md)
 1. [简介](%2F6.%20%E8%BF%9B%E9%98%B6%E7%AF%87%2F01.%20%E7%AE%80%E4%BB%8B.md)
 1. [全面深度掌握 TS 类](%2F6.%20%E8%BF%9B%E9%98%B6%E7%AF%87%2F02.%20%E5%85%A8%E9%9D%A2%E6%B7%B1%E5%BA%A6%E6%8E%8C%E6%8F%A1%20TS%20%E7%B1%BB.md)
 1. [TS 类方法代码优化的三大法宝](%2F6.%20%E8%BF%9B%E9%98%B6%E7%AF%87%2F03.%20TS%20%E7%B1%BB%E6%96%B9%E6%B3%95%E4%BB%A3%E7%A0%81%E4%BC%98%E5%8C%96%E7%9A%84%E4%B8%89%E5%A4%A7%E6%B3%95%E5%AE%9D.md)
@@ -89,6 +90,16 @@ TypeScript 学习笔记
 
 1. [vscode 开启 eslint 自动校验](%2F8.%20Articles%2F001.%20vscode%20%E5%BC%80%E5%90%AF%20eslint%20%E8%87%AA%E5%8A%A8%E6%A0%A1%E9%AA%8C.md)
 1. [TS 高级类型工具](%2F8.%20Articles%2F002.%20TS%20%E9%AB%98%E7%BA%A7%E7%B1%BB%E5%9E%8B%E5%B7%A5%E5%85%B7.md)
+1. [tsdx](%2F8.%20Articles%2F003.%20tsdx.md)
+
+## ts-senior
+
+
+### handle-promise
+
+
+#### src
+
 
 ## More links
 
