@@ -1,13 +1,10 @@
 node_modules
-<<<<<<< HEAD
 npm-debug.log
 package-lock.json
 debug.log
 oldDocs
 Link.md
 
-=======
 /*/**/node_modules
 /*/**/.parcel-cache
 npm-debug.log
->>>>>>> feat/typescript-code
