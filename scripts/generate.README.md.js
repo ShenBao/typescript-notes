@@ -5,19 +5,34 @@ basePath = '';
 
 var desc = `
 任何可以使用 Javascript 来编写的应用，最终会由 JavaScript 编写。
-—— Jeff Atwood, 2007
+--- Jeff Atwood, 2007
+
+TypeScript 使重构变得轻松愉快.
+--- Anders Hejlsberg（TypeScript的创造者），2012
 
 任何可以使用 Javascript 来编写的优秀的大型应用，最终会由 TypeScript 编写。
-—— 韩骏，2019
+--- 韩骏，2019
 
 文档：
+- [typescriptlang.org](https://www.typescriptlang.org)
+- [tslang.cn](https://www.tslang.cn)
+- [typescript doc](https://wangdoc.com/typescript/)
+- [TypeScript Blog](https://devblogs.microsoft.com/typescript/)
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
 
-- [www.typescriptlang.org](https://www.typescriptlang.org)
-- [www.tslang.cn](https://www.tslang.cn)
+typescript-book：
+- [TypeScript Deep Dive](https://github.com/basarat/typescript-book)
+- [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react)
+- [awesome-typescript](https://github.com/dzharii/awesome-typescript)
+
+type:
+- [type-challenges](https://github.com/type-challenges/type-challenges)
+- [utility-types](https://github.com/piotrwitek/utility-types)
+- [type-fest](https://github.com/sindresorhus/type-fest)
 
 TypeScript 学习笔记
-
-* [对应示例地址: https://github.com/ShenBao/typescript-code](https://github.com/ShenBao/typescript-code)
+- [TypeScript Nodes: https://github.com/ShenBao/typescript-notes](https://github.com/ShenBao/typescript-notes)
+- [对应示例代码: https://github.com/ShenBao/typescript-notes/tree/master/code](https://github.com/ShenBao/typescript-notes/tree/master/code)
 `;
 
 var endDesc = `

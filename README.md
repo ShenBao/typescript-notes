@@ -1,19 +1,34 @@
 # typescript-notes
 
 任何可以使用 Javascript 来编写的应用，最终会由 JavaScript 编写。
-—— Jeff Atwood, 2007
+--- Jeff Atwood, 2007
+
+TypeScript 使重构变得轻松愉快.
+--- Anders Hejlsberg（TypeScript的创造者），2012
 
 任何可以使用 Javascript 来编写的优秀的大型应用，最终会由 TypeScript 编写。
-—— 韩骏，2019
+--- 韩骏，2019
 
 文档：
+- [typescriptlang.org](https://www.typescriptlang.org)
+- [tslang.cn](https://www.tslang.cn)
+- [typescript doc](https://wangdoc.com/typescript/)
+- [TypeScript Blog](https://devblogs.microsoft.com/typescript/)
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
 
-- [www.typescriptlang.org](https://www.typescriptlang.org)
-- [www.tslang.cn](https://www.tslang.cn)
+typescript-book：
+- [TypeScript Deep Dive](https://github.com/basarat/typescript-book)
+- [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react)
+- [awesome-typescript](https://github.com/dzharii/awesome-typescript)
+
+type:
+- [type-challenges](https://github.com/type-challenges/type-challenges)
+- [utility-types](https://github.com/piotrwitek/utility-types)
+- [type-fest](https://github.com/sindresorhus/type-fest)
 
 TypeScript 学习笔记
-
-* [对应示例地址: https://github.com/ShenBao/typescript-code](https://github.com/ShenBao/typescript-code)
+- [TypeScript Nodes: https://github.com/ShenBao/typescript-notes](https://github.com/ShenBao/typescript-notes)
+- [对应示例代码: https://github.com/ShenBao/typescript-notes/tree/master/code](https://github.com/ShenBao/typescript-notes/tree/master/code)
 
 ## 0. TypeScript Mind Map
 
@@ -91,6 +106,12 @@ TypeScript 学习笔记
 1. [vscode 开启 eslint 自动校验](%2F8.%20Articles%2F001.%20vscode%20%E5%BC%80%E5%90%AF%20eslint%20%E8%87%AA%E5%8A%A8%E6%A0%A1%E9%AA%8C.md)
 1. [TS 高级类型工具](%2F8.%20Articles%2F002.%20TS%20%E9%AB%98%E7%BA%A7%E7%B1%BB%E5%9E%8B%E5%B7%A5%E5%85%B7.md)
 1. [tsdx](%2F8.%20Articles%2F003.%20tsdx.md)
+1. [ts 的 4,9 属性之 satisfies](%2F8.%20Articles%2F006.%20ts%20%E7%9A%84%204.9%20%E5%B1%9E%E6%80%A7%E4%B9%8B%20satisfies.md)
+
+## 9. md
+
+1. [TypeScript 中的数据验证利器：Zod 入门与实战](%2F9.%20md%2FTypeScript%20%E4%B8%AD%E7%9A%84%E6%95%B0%E6%8D%AE%E9%AA%8C%E8%AF%81%E5%88%A9%E5%99%A8%EF%BC%9AZod%20%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E6%88%98.md)
+1. [掌握 TypeScript 数据类型与最佳实践](%2F9.%20md%2F%E6%8E%8C%E6%8F%A1%20TypeScript%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.md)
 
 ## ts-senior
 
